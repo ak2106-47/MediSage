@@ -1,0 +1,500 @@
+[
+  {
+    "disease": "asthma",
+    "symptoms": "Wheezing, shortness of breath, chest tightness, and persistent coughing, especially at night or early morning.",
+    "causes": "Chronic airway inflammation triggered by allergens, air pollution, respiratory infections, exercise, or cold air.",
+    "prevention": "Avoid known triggers, follow asthma action plans, use inhaled corticosteroids as prescribed, and monitor symptoms regularly.",
+    "treatment": "Inhaled bronchodilators (e.g., albuterol), corticosteroids, leukotriene modifiers, and biologics for severe cases."
+  },
+  {
+    "disease": "diabetes",
+    "symptoms": "Increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, and slow wound healing.",
+    "causes": "Type 1: autoimmune destruction of pancreatic beta cells. Type 2: insulin resistance often due to obesity, inactivity, and genetics.",
+    "prevention": "Healthy diet, regular exercise, weight management, and routine glucose screening for at-risk individuals.",
+    "treatment": "Type 1: insulin therapy. Type 2: oral antidiabetics (e.g., metformin), lifestyle changes, and sometimes insulin."
+  },
+  {
+    "disease": "hypertension",
+    "symptoms": "Often asymptomatic; may include headaches, dizziness, chest pain, shortness of breath, or visual disturbances in advanced stages.",
+    "causes": "Primary: unknown. Secondary: kidney disease, hormonal disorders, certain medications, or sleep apnea.",
+    "prevention": "Low-sodium diet, regular physical activity, weight loss, stress reduction, and limiting alcohol intake.",
+    "treatment": "ACE inhibitors, beta-blockers, diuretics, calcium channel blockers, and lifestyle changes."
+  },
+  {
+    "disease": "migraine",
+    "symptoms": "Pulsating headache, often on one side, with nausea, vomiting, light and sound sensitivity; some experience aura.",
+    "causes": "Genetic and neurological factors; triggered by stress, hormonal changes, certain foods, or sleep disturbances.",
+    "prevention": "Identifying and avoiding triggers, maintaining consistent sleep and diet, and using prophylactic medications if frequent.",
+    "treatment": "NSAIDs, triptans, antiemetics, and preventive drugs such as beta-blockers or CGRP inhibitors."
+  },
+  {
+    "disease": "covid-19",
+    "symptoms": "Fever, dry cough, fatigue, shortness of breath, sore throat, loss of taste or smell, and body aches.",
+    "causes": "Infection by SARS-CoV-2 virus, transmitted via respiratory droplets, aerosols, and contaminated surfaces.",
+    "prevention": "Vaccination, mask-wearing, hand hygiene, physical distancing, and avoiding crowded spaces.",
+    "treatment": "Supportive care, antivirals (e.g., remdesivir), corticosteroids for severe cases, and oxygen therapy when required."
+  },
+  {
+    "disease": "pneumonia",
+    "symptoms": "Cough with phlegm, chest pain, fever, chills, and difficulty breathing.",
+    "causes": "Infection of lung tissue by bacteria (e.g., Streptococcus pneumoniae), viruses, or fungi.",
+    "prevention": "Vaccination (e.g., pneumococcal, influenza), smoking cessation, and infection control practices.",
+    "treatment": "Antibiotics for bacterial pneumonia, antivirals if applicable, supportive care, and hospitalization in severe cases."
+  },
+  {
+    "disease": "anemia",
+    "symptoms": "Fatigue, pale skin, dizziness, shortness of breath, cold extremities, and rapid heartbeat.",
+    "causes": "Iron deficiency, vitamin B12 or folate deficiency, chronic disease, blood loss, or bone marrow disorders.",
+    "prevention": "Balanced diet with iron and vitamins, regular screening, and managing chronic illnesses.",
+    "treatment": "Iron supplements, dietary changes, vitamin B12 or folate replacement, and transfusions in severe cases."
+  },
+  {
+    "disease": "arthritis",
+    "symptoms": "Joint pain, swelling, stiffness, reduced mobility, and sometimes warmth over affected joints.",
+    "causes": "Osteoarthritis: wear-and-tear. Rheumatoid arthritis: autoimmune. Other types: infections, uric acid buildup, or injury.",
+    "prevention": "Maintaining healthy weight, joint protection, regular physical activity, and early treatment of joint injuries.",
+    "treatment": "NSAIDs, corticosteroids, disease-modifying antirheumatic drugs (DMARDs), and physical therapy."
+  },
+  {
+    "disease": "depression",
+    "symptoms": "Persistent sadness, loss of interest, fatigue, sleep disturbances, feelings of guilt, and thoughts of suicide.",
+    "causes": "Biological, psychological, and environmental factors including genetics, trauma, and chronic stress.",
+    "prevention": "Early intervention, stress management, social support, and regular mental health checkups.",
+    "treatment": "Psychotherapy (e.g., CBT), antidepressants (SSRIs, SNRIs), lifestyle changes, and in severe cases, electroconvulsive therapy (ECT)."
+  },
+  {
+    "disease": "epilepsy",
+    "symptoms": "Recurrent seizures, temporary confusion, staring spells, muscle jerking, and loss of consciousness.",
+    "causes": "Genetic factors, brain injury, stroke, infections, or developmental disorders; often idiopathic.",
+    "prevention": "Preventing head trauma, prenatal care, and treating infections early; not always preventable.",
+    "treatment": "Antiepileptic drugs (e.g., valproate, levetiracetam), vagus nerve stimulation, and surgery in refractory cases."
+  },
+  {
+    "disease": "alzheimer's-disease",
+    "symptoms": "Progressive memory loss, confusion, difficulty with language, disorientation, and changes in behavior and personality.",
+    "causes": "Accumulation of amyloid plaques and neurofibrillary tangles in the brain; influenced by aging and genetic factors.",
+    "prevention": "Regular physical activity, cognitive engagement, heart-healthy diet, and management of cardiovascular risk factors.",
+    "treatment": "Cholinesterase inhibitors (e.g., donepezil), memantine, supportive care, and structured routines."
+  },
+  {
+    "disease": "stroke",
+    "symptoms": "Sudden weakness (especially on one side), difficulty speaking, vision problems, dizziness, and loss of balance or consciousness.",
+    "causes": "Blocked blood flow to the brain (ischemic stroke) or bleeding in the brain (hemorrhagic stroke).",
+    "prevention": "Controlling blood pressure, cholesterol, and diabetes; avoiding smoking and excess alcohol; regular exercise.",
+    "treatment": "Thrombolytics for ischemic stroke, surgery for hemorrhagic stroke, rehabilitation, and secondary prevention."
+  },
+  {
+    "disease": "parkinson's-disease",
+    "symptoms": "Tremors, slowed movement (bradykinesia), stiffness, balance problems, and facial masking.",
+    "causes": "Loss of dopamine-producing neurons in the substantia nigra; cause often idiopathic or linked to genetic/environmental factors.",
+    "prevention": "No known prevention; healthy lifestyle and regular exercise may reduce risk or delay onset.",
+    "treatment": "Levodopa-carbidopa, dopamine agonists, MAO-B inhibitors, physical therapy, and deep brain stimulation."
+  },
+  {
+    "disease": "cancer",
+    "symptoms": "Varies by type; may include unexplained weight loss, fatigue, pain, lumps, abnormal bleeding, or changes in bowel/bladder habits.",
+    "causes": "Uncontrolled cell division due to genetic mutations; triggered by carcinogens, viruses, or inherited factors.",
+    "prevention": "Avoid smoking, limit alcohol, healthy diet, exercise, vaccination (e.g., HPV, HBV), and regular screening.",
+    "treatment": "Surgery, chemotherapy, radiation therapy, immunotherapy, and targeted therapy based on cancer type."
+  },
+  {
+    "disease": "leukemia",
+    "symptoms": "Fatigue, frequent infections, easy bruising or bleeding, weight loss, and swollen lymph nodes or spleen.",
+    "causes": "Uncontrolled growth of abnormal white blood cells; linked to genetic mutations and radiation or chemical exposure.",
+    "prevention": "No guaranteed prevention; reducing exposure to carcinogens and regular health checkups may help.",
+    "treatment": "Chemotherapy, radiation therapy, stem cell transplantation, and targeted biological agents."
+  },
+  {
+    "disease": "lymphoma",
+    "symptoms": "Painless lymph node swelling, fatigue, night sweats, fever, and unexplained weight loss.",
+    "causes": "Cancer of the lymphatic system; exact cause unknown but involves genetic and environmental factors, including viral infections (e.g., EBV).",
+    "prevention": "No clear prevention; maintaining a healthy immune system and minimizing exposure to known risk factors may help.",
+    "treatment": "Chemotherapy, radiation, immunotherapy (e.g., rituximab), and stem cell transplantation."
+  },
+  {
+    "disease": "breast-cancer",
+    "symptoms": "Lump in the breast or armpit, changes in breast shape or skin, nipple discharge, and breast pain.",
+    "causes": "Genetic mutations (e.g., BRCA1/2), hormonal factors, lifestyle, and family history.",
+    "prevention": "Regular screening (mammograms), self-exams, maintaining healthy weight, limiting alcohol, and risk-reducing surgery for high-risk individuals.",
+    "treatment": "Surgery, radiation, chemotherapy, hormonal therapy (e.g., tamoxifen), and targeted drugs (e.g., HER2 inhibitors)."
+  },
+  {
+    "disease": "lung-cancer",
+    "symptoms": "Persistent cough, chest pain, coughing up blood, shortness of breath, and unexplained weight loss.",
+    "causes": "Most commonly caused by smoking; also due to radon exposure, asbestos, and genetic susceptibility.",
+    "prevention": "Avoid smoking, limit exposure to occupational toxins, and participate in screening programs if at risk.",
+    "treatment": "Surgical resection, chemotherapy, radiation, immunotherapy, and targeted therapy depending on cancer type."
+  },
+  {
+    "disease": "colon-cancer",
+    "symptoms": "Changes in bowel habits, blood in stool, abdominal pain, fatigue, and unintended weight loss.",
+    "causes": "Genetic mutations (e.g., APC gene), lifestyle factors, inflammatory bowel disease, and family history.",
+    "prevention": "Regular colonoscopy screening, high-fiber diet, physical activity, limiting red/processed meat, and managing polyps.",
+    "treatment": "Surgical removal of tumors, chemotherapy, radiation therapy, and targeted monoclonal antibodies."
+  },
+  {
+    "disease": "skin-cancer",
+    "symptoms": "New or changing moles, non-healing sores, rough/scaly patches, or pigmented lesions.",
+    "causes": "DNA damage from ultraviolet (UV) radiation exposure, tanning beds, and genetic predisposition.",
+    "prevention": "Use sunscreen, wear protective clothing, avoid excessive sun exposure, and perform regular skin checks.",
+    "treatment": "Surgical excision, cryotherapy, topical treatments, radiation, and immunotherapy (especially for melanoma)."
+  },
+  {
+    "disease": "tuberculosis",
+    "symptoms": "Persistent cough (sometimes with blood), night sweats, fever, fatigue, weight loss, and chest pain.",
+    "causes": "Infection by *Mycobacterium tuberculosis*, spread through airborne droplets from coughing or sneezing.",
+    "prevention": "BCG vaccination, proper ventilation, early detection, and treatment of active cases.",
+    "treatment": "Combination antibiotic therapy for at least 6 months, including isoniazid, rifampin, pyrazinamide, and ethambutol."
+  },
+  {
+    "disease": "hepatitis",
+    "symptoms": "Jaundice, fatigue, abdominal discomfort, dark urine, and nausea; symptoms vary by hepatitis type.",
+    "causes": "Viral infections (HAV, HBV, HCV), alcohol abuse, autoimmune reactions, or drug-induced liver injury.",
+    "prevention": "Vaccination (for HAV and HBV), safe injection practices, safe sex, and avoiding contaminated food or water.",
+    "treatment": "Supportive care for HAV, antiviral drugs for HBV/HCV (e.g., entecavir, sofosbuvir), and liver monitoring."
+  },
+  {
+    "disease": "hiv-aids",
+    "symptoms": "Fatigue, weight loss, night sweats, recurrent infections, and opportunistic illnesses like pneumonia or tuberculosis.",
+    "causes": "Infection by human immunodeficiency virus (HIV), transmitted via blood, sexual contact, or mother-to-child during birth.",
+    "prevention": "Safe sex practices, PrEP for high-risk individuals, regular testing, and avoiding shared needles.",
+    "treatment": "Antiretroviral therapy (ART) using drug combinations to suppress viral load and restore immune function."
+  },
+  {
+    "disease": "malaria",
+    "symptoms": "Cyclic fever, chills, headache, nausea, muscle aches, and sweating.",
+    "causes": "Infection by *Plasmodium* parasites, transmitted through the bite of infected *Anopheles* mosquitoes.",
+    "prevention": "Insecticide-treated bed nets, antimalarial prophylaxis, mosquito control, and protective clothing.",
+    "treatment": "Artemisinin-based combination therapies (ACTs) and supportive care in severe cases."
+  },
+  {
+    "disease": "dengue",
+    "symptoms": "High fever, severe headache, pain behind the eyes, joint and muscle pain, rash, and mild bleeding (e.g., nose or gums).",
+    "causes": "Infection by dengue virus, transmitted by *Aedes* mosquitoes (especially *A. aegypti*).",
+    "prevention": "Eliminating mosquito breeding sites, using repellents, and protective clothing; dengue vaccine available in some regions.",
+    "treatment": "Supportive care with fluids, acetaminophen for fever; avoid NSAIDs due to bleeding risk."
+  },
+  {
+    "disease": "zika-virus",
+    "symptoms": "Mild fever, rash, conjunctivitis, joint pain, and headache; often asymptomatic.",
+    "causes": "Infection by Zika virus, spread primarily by *Aedes* mosquitoes or through sexual transmission.",
+    "prevention": "Mosquito control, insect repellents, protected sex, and avoiding travel to high-risk areas during outbreaks.",
+    "treatment": "Supportive care with fluids and rest; no specific antiviral therapy available."
+  },
+  {
+    "disease": "ebola",
+    "symptoms": "Fever, muscle pain, vomiting, diarrhea, bleeding, and organ failure in severe cases.",
+    "causes": "Ebola virus infection, transmitted via contact with bodily fluids of infected individuals or animals.",
+    "prevention": "Avoiding exposure in endemic areas, protective gear for healthcare workers, and rVSV-ZEBOV vaccine in outbreak zones.",
+    "treatment": "Supportive care (hydration, oxygen), monoclonal antibodies, and investigational antivirals in specialized centers."
+  },
+  {
+    "disease": "chickenpox",
+    "symptoms": "Itchy rash with red spots and blisters, fever, fatigue, and loss of appetite.",
+    "causes": "Infection by varicella-zoster virus (VZV), spread through airborne droplets or direct contact.",
+    "prevention": "Varicella vaccination and isolation of infected individuals to prevent spread.",
+    "treatment": "Supportive care (antihistamines, acetaminophen), and antiviral therapy (acyclovir) in high-risk or severe cases."
+  },
+  {
+    "disease": "measles",
+    "symptoms": "High fever, cough, runny nose, conjunctivitis, and a characteristic red rash starting on the face.",
+    "causes": "Infection by measles virus, highly contagious via respiratory droplets.",
+    "prevention": "MMR vaccination, herd immunity, and isolation during outbreaks.",
+    "treatment": "Supportive care, vitamin A supplementation, and management of complications like pneumonia."
+  },
+  {
+    "disease": "mumps",
+    "symptoms": "Painful swelling of the salivary glands (especially parotid), fever, headache, muscle aches, and difficulty chewing.",
+    "causes": "Mumps virus infection, spread through saliva or respiratory secretions.",
+    "prevention": "MMR vaccination and avoiding contact with infected individuals.",
+    "treatment": "Supportive care with hydration, analgesics, and cold compresses; most recover without complications."
+  },
+  {
+    "disease": "rubella",
+    "symptoms": "Mild fever, pink rash starting on the face, swollen lymph nodes, joint pain, and conjunctivitis.",
+    "causes": "Rubella virus infection, transmitted via respiratory droplets; particularly dangerous during pregnancy.",
+    "prevention": "MMR vaccination and avoiding exposure during pregnancy.",
+    "treatment": "Supportive care; symptoms usually resolve within a week in healthy individuals."
+  },
+  {
+    "disease": "polio",
+    "symptoms": "Fever, sore throat, muscle weakness, and in severe cases, paralysis and respiratory difficulty.",
+    "causes": "Poliovirus infection, transmitted via fecal-oral route or contaminated water.",
+    "prevention": "Polio vaccination (IPV or OPV) as part of routine immunization schedules.",
+    "treatment": "Supportive care, physical therapy, and ventilatory support in severe cases."
+  },
+  {
+    "disease": "influenza",
+    "symptoms": "High fever, chills, sore throat, muscle aches, cough, fatigue, and nasal congestion.",
+    "causes": "Influenza viruses (A, B, C) spread via respiratory droplets or contact with contaminated surfaces.",
+    "prevention": "Annual flu vaccination, hand hygiene, mask use, and avoiding close contact with sick individuals.",
+    "treatment": "Antiviral medications (e.g., oseltamivir) if given early, rest, fluids, and symptom relief."
+  },
+  {
+    "disease": "bronchitis",
+    "symptoms": "Cough with mucus, chest discomfort, wheezing, and shortness of breath.",
+    "causes": "Acute: viral infections; Chronic: long-term exposure to irritants like smoking or air pollution.",
+    "prevention": "Avoid smoking and air pollutants; get vaccinated for flu and pneumonia.",
+    "treatment": "Supportive care for acute cases; bronchodilators, steroids, and pulmonary rehab for chronic bronchitis."
+  },
+  {
+    "disease": "tonsillitis",
+    "symptoms": "Sore throat, painful swallowing, swollen tonsils, fever, and tender lymph nodes.",
+    "causes": "Viral or bacterial infections, most commonly *Streptococcus pyogenes* (strep throat).",
+    "prevention": "Good hygiene, avoiding contact with infected individuals, and early treatment of sore throat.",
+    "treatment": "Rest, fluids, antibiotics if bacterial, and tonsillectomy for recurrent cases."
+  },
+  {
+    "disease": "urinary-tract-infection",
+    "symptoms": "Burning urination, frequent urge to urinate, cloudy or bloody urine, and pelvic discomfort.",
+    "causes": "Bacterial infection, most commonly *Escherichia coli* entering the urinary tract.",
+    "prevention": "Hydration, urinating after sex, wiping front to back, and good hygiene.",
+    "treatment": "Oral antibiotics (e.g., nitrofurantoin, trimethoprim-sulfamethoxazole) and increased fluid intake."
+  },
+  {
+    "disease": "kidney-disease",
+    "symptoms": "Swelling (edema), fatigue, changes in urination, nausea, and confusion in advanced stages.",
+    "causes": "Diabetes, hypertension, glomerulonephritis, polycystic kidney disease, or drug toxicity.",
+    "prevention": "Blood pressure and glucose control, avoiding NSAIDs and nephrotoxins, and regular screenings.",
+    "treatment": "Diet modification, medications, dialysis in end-stage disease, and kidney transplant if indicated."
+  },
+  {
+    "disease": "liver-disease",
+    "symptoms": "Jaundice, fatigue, abdominal pain, swelling, dark urine, and easy bruising.",
+    "causes": "Hepatitis viruses, alcohol abuse, fatty liver, autoimmune disease, or toxins.",
+    "prevention": "Avoid excessive alcohol, hepatitis vaccination, maintain healthy weight, and monitor medications.",
+    "treatment": "Treat underlying cause, antiviral or immunosuppressive therapy, and liver transplant in severe cases."
+  },
+  {
+    "disease": "pancreatitis",
+    "symptoms": "Severe abdominal pain radiating to the back, nausea, vomiting, and fever.",
+    "causes": "Gallstones, chronic alcohol use, high triglycerides, certain medications, or infections.",
+    "prevention": "Limit alcohol intake, manage cholesterol, and avoid known trigger medications.",
+    "treatment": "Fasting, IV fluids, pain management, and treating underlying cause (e.g., gallstone removal)."
+  },
+  {
+    "disease": "appendicitis",
+    "symptoms": "Sudden abdominal pain (often starting near the navel and shifting to the lower right), fever, nausea, and loss of appetite.",
+    "causes": "Blockage of the appendix by feces, inflammation, or infection leading to swelling and rupture risk.",
+    "prevention": "No specific prevention; early diagnosis and treatment reduce complications.",
+    "treatment": "Surgical removal of the appendix (appendectomy); antibiotics may be used pre-operatively."
+  },
+  {
+    "disease": "gallstones",
+    "symptoms": "Sudden upper right abdominal pain, nausea, vomiting, and possible jaundice if bile ducts are blocked.",
+    "causes": "Crystallized cholesterol or bilirubin forming stones in the gallbladder; linked to obesity, diet, or rapid weight loss.",
+    "prevention": "Healthy diet, regular exercise, maintaining healthy weight, and gradual weight loss.",
+    "treatment": "Surgical removal of the gallbladder (cholecystectomy) or medications to dissolve stones."
+  },
+  {
+    "disease": "obesity",
+    "symptoms": "Excess body fat, shortness of breath, joint pain, fatigue, and increased risk of chronic diseases.",
+    "causes": "Long-term energy imbalance due to high caloric intake, sedentary lifestyle, genetic and hormonal factors.",
+    "prevention": "Balanced diet, regular physical activity, behavioral therapy, and early lifestyle interventions.",
+    "treatment": "Diet and exercise programs, medications for weight loss, bariatric surgery in severe cases."
+  },
+  {
+    "disease": "anorexia",
+    "symptoms": "Extreme weight loss, fear of gaining weight, distorted body image, fatigue, and amenorrhea in females.",
+    "causes": "Psychological, societal, and genetic factors; often coexists with anxiety or perfectionism.",
+    "prevention": "Early psychological intervention, body positivity education, and mental health support in adolescents.",
+    "treatment": "Nutritional rehabilitation, psychotherapy (CBT), family-based therapy, and medical monitoring."
+  },
+  {
+    "disease": "bulimia",
+    "symptoms": "Binge eating followed by purging (vomiting, laxatives), weight fluctuations, sore throat, and dental erosion.",
+    "causes": "Psychological factors including low self-esteem, societal pressure, and trauma history.",
+    "prevention": "Healthy coping strategies, early detection, and mental health education.",
+    "treatment": "Psychotherapy (CBT), antidepressants (SSRIs), nutritional counseling, and support groups."
+  },
+  {
+    "disease": "scoliosis",
+    "symptoms": "Abnormal curvature of the spine, uneven shoulders or waist, and back pain in severe cases.",
+    "causes": "Idiopathic (most common), congenital spinal defects, or neuromuscular disorders.",
+    "prevention": "No known prevention for idiopathic type; early screening in children is key.",
+    "treatment": "Monitoring, bracing in growing children, and spinal surgery in severe deformities."
+  },
+  {
+    "disease": "glaucoma",
+    "symptoms": "Gradual loss of peripheral vision, tunnel vision in advanced stages, and eye pain in acute cases.",
+    "causes": "Increased intraocular pressure damaging the optic nerve; can also occur with normal pressure.",
+    "prevention": "Regular eye exams, especially for high-risk groups; early treatment can preserve vision.",
+    "treatment": "Eye drops to lower pressure, oral medications, laser therapy, or surgery."
+  },
+  {
+    "disease": "cataract",
+    "symptoms": "Cloudy or blurred vision, glare sensitivity, faded colors, and difficulty seeing at night.",
+    "causes": "Aging, diabetes, UV exposure, smoking, or trauma leading to lens clouding.",
+    "prevention": "Wearing sunglasses, managing chronic conditions, and avoiding smoking.",
+    "treatment": "Surgical removal of the cloudy lens and implantation of an artificial lens."
+  },
+  {
+    "disease": "sinusitis",
+    "symptoms": "Facial pain or pressure, nasal congestion, thick nasal discharge, headache, and postnasal drip.",
+    "causes": "Viral, bacterial, or allergic inflammation of the sinuses following upper respiratory infections.",
+    "prevention": "Avoiding allergens, nasal irrigation, and managing colds promptly.",
+    "treatment": "Decongestants, nasal corticosteroids, saline rinses, and antibiotics if bacterial."
+  },
+  {
+    "disease": "eczema",
+    "symptoms": "Dry, itchy, red, and inflamed skin; often appears on the hands, elbows, or behind the knees.",
+    "causes": "Genetic predisposition, immune dysfunction, environmental irritants, and allergens.",
+    "prevention": "Moisturizing regularly, avoiding triggers, using hypoallergenic products.",
+    "treatment": "Topical corticosteroids, antihistamines, moisturizers, and immunosuppressive creams in severe cases."
+  },
+  {
+    "disease": "psoriasis",
+    "symptoms": "Thick, scaly, red patches of skin commonly on elbows, knees, and scalp; may be itchy or painful.",
+    "causes": "Autoimmune skin condition with genetic and environmental triggers like stress or infections.",
+    "prevention": "Stress management, avoiding skin injuries and infections, and lifestyle adjustments.",
+    "treatment": "Topical treatments (steroids, vitamin D analogs), phototherapy, systemic drugs, and biologics."
+  },
+  {
+    "disease": "acne",
+    "symptoms": "Pimples, blackheads, whiteheads, and cysts typically on the face, chest, and back.",
+    "causes": "Clogged hair follicles due to excess oil, dead skin cells, bacteria, and hormonal changes.",
+    "prevention": "Gentle skin care, avoiding oily products, managing stress, and not picking at pimples.",
+    "treatment": "Topical retinoids, benzoyl peroxide, antibiotics, hormonal therapy, and isotretinoin for severe cases."
+  },
+  {
+    "disease": "vitiligo",
+    "symptoms": "Loss of skin color in patches due to pigment cell destruction; often affects face, hands, and joints.",
+    "causes": "Autoimmune destruction of melanocytes; may be linked to genetic or environmental factors.",
+    "prevention": "No definitive prevention; sun protection and managing autoimmune triggers may help.",
+    "treatment": "Topical corticosteroids, phototherapy, depigmentation therapy, or skin camouflage cosmetics."
+  },
+  {
+    "disease": "ulcer",
+    "symptoms": "Burning stomach pain, bloating, nausea, and indigestion; symptoms worsen on an empty stomach.",
+    "causes": "Infection with *Helicobacter pylori* or prolonged NSAID use leading to gastric mucosal damage.",
+    "prevention": "Avoiding NSAIDs, alcohol, and smoking; managing stress and treating H. pylori promptly.",
+    "treatment": "Proton pump inhibitors, antibiotics for H. pylori, and protective agents like sucralfate."
+  },
+  {
+    "disease": "celiac-disease",
+    "symptoms": "Diarrhea, weight loss, bloating, fatigue, and nutrient deficiencies after consuming gluten.",
+    "causes": "Autoimmune reaction to gluten damaging the small intestine in genetically susceptible individuals.",
+    "prevention": "Not preventable in predisposed individuals; early diagnosis and strict gluten avoidance are key.",
+    "treatment": "Lifelong adherence to a strict gluten-free diet and nutritional support."
+  },
+  {
+    "disease": "crohns-disease",
+    "symptoms": "Chronic abdominal pain, diarrhea, weight loss, fatigue, and sometimes rectal bleeding.",
+    "causes": "Autoimmune inflammation of the digestive tract; exact cause unknown but involves genetics and immune dysregulation.",
+    "prevention": "No known prevention; managing inflammation and avoiding smoking may help reduce flares.",
+    "treatment": "Anti-inflammatory drugs, immunosuppressants, biologics (e.g., TNF inhibitors), and sometimes surgery."
+  },
+  {
+    "disease": "irritable-bowel-syndrome",
+    "symptoms": "Abdominal cramps, bloating, gas, diarrhea or constipation, without structural bowel damage.",
+    "causes": "Unknown; may involve gut-brain interaction, stress, diet, and altered gut motility or microbiota.",
+    "prevention": "Stress reduction, dietary management, and regular bowel habits.",
+    "treatment": "Dietary changes (low FODMAP diet), fiber, antispasmodics, probiotics, and behavioral therapy."
+  },
+  {
+    "disease": "hemorrhoids",
+    "symptoms": "Painful, swollen veins in the rectum or anus causing bleeding, itching, and discomfort during bowel movements.",
+    "causes": "Straining during defecation, chronic constipation, pregnancy, or prolonged sitting.",
+    "prevention": "High-fiber diet, adequate hydration, regular exercise, and avoiding prolonged straining.",
+    "treatment": "Topical creams, sitz baths, rubber band ligation, or surgical removal in severe cases."
+  },
+  {
+    "disease": "gerd",
+    "symptoms": "Heartburn, acid reflux, chest pain, sour taste in mouth, and regurgitation, especially after meals.",
+    "causes": "Weakening of the lower esophageal sphincter allowing stomach acid to flow back into the esophagus.",
+    "prevention": "Avoiding trigger foods, not lying down after eating, weight loss, and elevating the head during sleep.",
+    "treatment": "Antacids, H2 blockers, proton pump inhibitors, and surgery in refractory cases."
+  },
+  {
+    "disease": "gastritis",
+    "symptoms": "Upper abdominal pain, nausea, bloating, indigestion, and sometimes vomiting or loss of appetite.",
+    "causes": "Irritation of the stomach lining due to H. pylori infection, NSAIDs, alcohol, or stress.",
+    "prevention": "Avoiding NSAIDs, reducing alcohol, treating infections early, and stress management.",
+    "treatment": "Proton pump inhibitors, antacids, antibiotics for H. pylori, and dietary modifications."
+  },
+  {
+    "disease": "gout",
+    "symptoms": "Sudden, intense joint pain (often in the big toe), swelling, redness, and warmth.",
+    "causes": "Uric acid crystal buildup in joints due to high uric acid levels from diet, genetics, or kidney issues.",
+    "prevention": "Avoiding purine-rich foods (red meat, shellfish), alcohol, and maintaining hydration.",
+    "treatment": "NSAIDs, colchicine, corticosteroids for acute attacks, and urate-lowering therapy (e.g., allopurinol)."
+  },
+  {
+    "disease": "osteoporosis",
+    "symptoms": "Bone fractures, loss of height, stooped posture, and back pain from vertebral collapse.",
+    "causes": "Reduced bone density due to aging, hormonal changes (especially postmenopausal), or calcium/vitamin D deficiency.",
+    "prevention": "Adequate calcium and vitamin D intake, weight-bearing exercises, and avoiding smoking or alcohol.",
+    "treatment": "Bisphosphonates, hormone therapy, calcium and vitamin D supplements, and lifestyle modification."
+  },
+  {
+    "disease": "rheumatoid-arthritis",
+    "symptoms": "Swollen, stiff, and painful joints, especially in the morning; fatigue and systemic inflammation.",
+    "causes": "Autoimmune attack on joint lining, influenced by genetic and environmental triggers.",
+    "prevention": "Not fully preventable, but smoking cessation and early treatment can reduce severity.",
+    "treatment": "DMARDs (e.g., methotrexate), biologics (e.g., TNF inhibitors), NSAIDs, corticosteroids, and physical therapy."
+  },
+  {
+    "disease": "multiple-sclerosis",
+    "symptoms": "Numbness, weakness, visual disturbances, fatigue, and difficulty with coordination and balance.",
+    "causes": "Autoimmune attack on the myelin sheath in the central nervous system; exact cause unknown.",
+    "prevention": "No known prevention; vitamin D and early intervention may help manage risk.",
+    "treatment": "Immunomodulatory drugs (e.g., interferons, monoclonal antibodies), physical therapy, and symptom management."
+  },
+  {
+    "disease": "thyroid-disease",
+    "symptoms": "Hypothyroidism: fatigue, weight gain, cold intolerance. Hyperthyroidism: weight loss, heat intolerance, tremors, and palpitations.",
+    "causes": "Autoimmune (Hashimoto’s or Graves’), iodine imbalance, nodules, or thyroiditis.",
+    "prevention": "Adequate iodine intake, avoiding radiation exposure, and regular screening in high-risk individuals.",
+    "treatment": "Thyroid hormone replacement (levothyroxine), antithyroid drugs, radioactive iodine, or surgery."
+  },
+  {
+    "disease": "meningitis",
+    "symptoms": "Severe headache, neck stiffness, fever, light sensitivity, confusion, and vomiting.",
+    "causes": "Infection of meninges by bacteria (e.g., *Neisseria meningitidis*), viruses, or fungi; can also be non-infectious.",
+    "prevention": "Vaccination (e.g., meningococcal, Hib), avoiding exposure, and prompt treatment of nearby infections.",
+    "treatment": "Antibiotics for bacterial cases, antiviral or antifungal agents, and supportive care."
+  },
+  {
+    "disease": "sleep-apnea",
+    "symptoms": "Loud snoring, daytime fatigue, pauses in breathing during sleep, morning headaches, and poor concentration.",
+    "causes": "Obstruction of airway during sleep (obstructive), or brain signal issues (central); risk factors include obesity and anatomical abnormalities.",
+    "prevention": "Weight loss, avoiding alcohol before sleep, and treating nasal congestion.",
+    "treatment": "CPAP therapy, oral appliances, lifestyle changes, and surgery in some cases."
+  },
+  {
+    "disease": "insomnia",
+    "symptoms": "Difficulty falling or staying asleep, early awakening, fatigue, irritability, and poor focus.",
+    "causes": "Stress, anxiety, depression, poor sleep hygiene, chronic illness, or medication side effects.",
+    "prevention": "Consistent sleep routine, avoiding caffeine and screens before bed, and managing stress.",
+    "treatment": "Cognitive behavioral therapy for insomnia (CBT-I), sleep hygiene practices, and short-term medications if needed."
+  },
+  {
+    "disease": "bipolar-disorder",
+    "symptoms": "Mood swings ranging from manic (elevated mood, hyperactivity) to depressive episodes (sadness, low energy).",
+    "causes": "Genetic, neurochemical, and environmental influences affecting mood regulation.",
+    "prevention": "Not preventable, but early diagnosis and consistent treatment can reduce impact.",
+    "treatment": "Mood stabilizers (e.g., lithium), antipsychotics, psychotherapy, and lifestyle regulation."
+  },
+  {
+    "disease": "schizophrenia",
+    "symptoms": "Hallucinations, delusions, disorganized speech, lack of motivation, and cognitive impairment.",
+    "causes": "Complex interplay of genetic, biochemical, and environmental factors affecting brain function.",
+    "prevention": "No known prevention; early treatment and avoiding substance abuse may reduce risk.",
+    "treatment": "Antipsychotic medications, cognitive-behavioral therapy, social support, and rehabilitation programs."
+  },
+  {
+    "disease": "autism",
+    "symptoms": "Social communication difficulties, restricted interests, repetitive behaviors, and sensory sensitivities.",
+    "causes": "Neurodevelopmental differences influenced by genetic and environmental factors during early brain development.",
+    "prevention": "Not preventable; early intervention can improve developmental outcomes.",
+    "treatment": "Behavioral therapy (ABA), speech and occupational therapy, educational support, and parent training."
+  },
+  {
+    "disease": "adhd",
+    "symptoms": "Inattention, hyperactivity, impulsivity, difficulty focusing, and trouble organizing tasks or following instructions.",
+    "causes": "Genetic predisposition, brain structure and function differences, and environmental influences during early development.",
+    "prevention": "No known prevention; early recognition and consistent support can improve outcomes.",
+    "treatment": "Behavioral therapy, stimulant medications (e.g., methylphenidate), parent training, and academic accommodations."
+  }
+]
+
